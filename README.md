@@ -1,3 +1,5 @@
 # Backend jmam - Calendar
 
-Creacion de un backend para la aplicacion de calendar de React.
+Creación de un backend para la aplicación de calendar de React.
+Es una aplicación donde puedes agendar reuniones con varias personas.
+Está hecha en react y mongodb.
